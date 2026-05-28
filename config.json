@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailctringify",
+        "uuid": 11520864,
+        "checksum": "vipdql"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
